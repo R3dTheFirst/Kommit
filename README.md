@@ -1,5 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a id="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -7,8 +9,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -18,6 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -25,12 +26,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <p href="https://github.com/R3dTheFirst/Kommit">
+  <p>
    
   ```
        ,--.                                                            
@@ -66,8 +65,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -94,31 +91,26 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://picsum.photos/200)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [![Rust][rust-badge]](https://www.rust-lang.org)
-* [![Cargo][cargo-badge]](https://doc.rust-lang.org/cargo)
+- [![Rust][rust-badge]](https://www.rust-lang.org)
+- [![Cargo][cargo-badge]](https://doc.rust-lang.org/cargo)
 
 [rust-badge]: https://img.shields.io/badge/rust-%23E57373.svg?style=for-the-badge&logo=rust&logoColor=white
 [cargo-badge]: https://img.shields.io/badge/cargo-%234a4a4a.svg?style=for-the-badge&logo=cargo&logoColor=white
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To be decided
@@ -127,39 +119,47 @@ To be decided
 
 Before you can use the CLI tool, make sure you have the following installed:
 
-* [Rust](https://www.rust-lang.org/learn/get-started) - The programming language for building the CLI tool
-* [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) - Rust’s package manager (it comes bundled with Rust)
+- [Rust](https://www.rust-lang.org/learn/get-started) - The programming language for building the CLI tool
+- [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) - Rust’s package manager (it comes bundled with Rust)
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 1. Clone the repo:
+
 ```sh
    git clone https://github.com/R3dthefirst/kommit.git
 ```
 
 2. Navigate into the project directory:
+
 ```sh
   cd kommit
 ```
+
 3. Build the project using Cargo:
+
 ```sh
   cargo build --release
 ```
 
 4. Install the tool globally (optional, if you want it available system-wide):
+
 ```sh
   cargo install --path .
 ```
 
 5. Run the tool to generate commit messages:
+
 ```sh
   kommit
 ```
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Clean CLI Menu
@@ -169,9 +169,8 @@ See the [open issues](https://github.com/R3dTheFirst/Kommit/issues) for a full l
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -193,18 +192,16 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=R3dTheFirst/Kommit" alt="contrib.rocks image" />
 </a>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 R3d - r3dthefirst@gmail.com - Discord potassiumcn
@@ -213,19 +210,17 @@ Project Link: [https://github.com/R3dTheFirst/Kommit](https://github.com/R3dTheF
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [othneildrew](https://github.com/othneildrew/Best-README-Template)
+- [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/R3dTheFirst/Kommit.svg?style=for-the-badge
 [contributors-url]: https://github.com/R3dTheFirst/Kommit/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/R3dTheFirst/Kommit.svg?style=for-the-badge
@@ -254,4 +249,4 @@ Project Link: [https://github.com/R3dTheFirst/Kommit](https://github.com/R3dTheF
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
